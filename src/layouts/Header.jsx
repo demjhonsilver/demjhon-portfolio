@@ -4,7 +4,7 @@ export const Header = () => {
   return (
     <div>
         
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <div className="container">
           <a className="navbar-brand" href="/">Demjhon Blog</a>
           <button
@@ -44,10 +44,14 @@ export const Header = () => {
                 </a>
               </li> */}
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/blog">
+                <a className="nav-link active" aria-current="page" href="#blog">
                   Blog
                 </a>
               </li>
+
+
+
+
 
               <li className="nav-item">
               <a

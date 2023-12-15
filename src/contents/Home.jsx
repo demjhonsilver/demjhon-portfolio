@@ -1,6 +1,7 @@
 import { useEffect } from 'react';
-
 import { motionRack } from 'motionrack'; 
+import { Blog } from './Blog';
+
 
 export const Home = () => {
 
@@ -21,11 +22,16 @@ export const Home = () => {
   });
 
 
-
   return (
     <div>
-    
-      <header className="masthead d-flex align-items-center">
+   
+
+   
+
+
+
+   
+    <header className="masthead d-flex align-items-center" id="home">
         <div className="container px-4 px-lg-5 text-center">
         <img className="img-fluid"  data-motionrack-once="expand" src={circ} alt="..." style={{width: '20%'}} />
 
@@ -182,6 +188,11 @@ export const Home = () => {
           </a>
         </div>
       </div>
+
+
+    <Blog />
+
+
     </div>
-  );
-};
+  )
+}

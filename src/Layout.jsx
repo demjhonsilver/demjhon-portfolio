@@ -11,9 +11,6 @@ import { Footer } from './layouts/Footer';
 
 function Layout({ children }) {
 
-
-
-
   return (
     <div className="app">
       { <Header />  } {/* Conditionally render HeaderBlog or Header */}

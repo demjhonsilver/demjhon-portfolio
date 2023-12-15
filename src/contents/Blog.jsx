@@ -24,8 +24,8 @@ export const Blog = () => {
 
   return (
     <div>
-    
-      <header className="masthead d-flex align-items-center">
+
+      <header className="masthead d-flex align-items-center" id="blog">
         <div className="container px-4 px-lg-5 text-center">
         <img className="img-fluid"  data-motionrack-once="expand" src={circ} alt="..." style={{width: '20%'}} />
 
@@ -34,7 +34,7 @@ export const Blog = () => {
             <p data-motionrack="fadeIn">Demjhon Silver</p>
           </h4>
           <a className="btn btn-primary btn-xl"  data-motionrack="flipRight" href="">
-            Find Out More
+            Find Out More BLOGF
           </a>
         </div>
       </header>
