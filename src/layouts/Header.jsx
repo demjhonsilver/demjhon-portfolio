@@ -66,6 +66,20 @@ export const Header = () => {
               <li className="nav-item">
               <a
                 className="nav-link"
+                href="https://twitter.com/demjhonsilver"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+               
+                <i className="ri-twitter-x-line" style={{ fontSize: '18px', color: 'white' }}></i>
+              </a>
+              </li>
+
+
+
+              <li className="nav-item">
+              <a
+                className="nav-link"
                 href="https://github.com/demjhonsilver"
                 target="_blank"
                 rel="noopener noreferrer"
