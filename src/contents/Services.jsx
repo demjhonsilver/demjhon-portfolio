@@ -60,7 +60,7 @@ export const Services = () => {
                 <strong>Back-End</strong>
               </h4>
               <p className="text-faded mb-0">
-                Laravel & Node JS - <i className="fas fa-heart"></i>Database  like MySql, Firebase, MongoDB, Supabase
+                Laravel & Node JS - <i className="fas fa-heart"></i>Database  like MySql, Firebase, MongoDB
               </p>
             </div>
             <div className="col-lg-3 col-md-6" data-motionrack-once="bounceUp">
@@ -124,7 +124,7 @@ export const Services = () => {
                 <strong>Product Branding</strong>
               </h4>
               <p className="text-dark text-faded mb-0">
-                Laravel & Node JS - <i className="fas fa-heart"></i>Database  like MySql, Firebase, MongoDB, Supabase
+                Selling Products - <i className="fas fa-heart"></i>Presented the best way to make more attractive and convincing.
               </p>
             </div>
             <div className="col-lg-3 col-md-6" data-motionrack-once="bounceUp">
