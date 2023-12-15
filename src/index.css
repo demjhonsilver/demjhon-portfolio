@@ -1,4 +1,4 @@
-:root {
+/* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -66,3 +66,47 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+ */
+
+
+ .dark-dropdown .dropdown-toggle::after {
+  color: #000; 
+}
+
+
+.dropdown-item:hover {
+    background-color: #eae9ff;
+    color: #fff;
+  }
+
+/* min height for body contents */
+.min-height-500 {
+    margin-top: 70px;
+    min-height: 500px;
+  }
+
+  .app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #ffffff;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .content {
+    width: 100%;
+  }
+  
+  footer {
+    background-color: #020000;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
