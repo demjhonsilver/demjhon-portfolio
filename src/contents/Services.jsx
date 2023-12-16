@@ -25,7 +25,7 @@ export const Services = () => {
         <div className="container px-4 px-lg-5">
           <div className="content-section-heading">
             <h1 className=" mb-5" data-motionrack-once="motionDown 0.4s">Services</h1>
-            <h2 className="text-secondary mb-5" data-motionrack-once="motionDown 0.4s">As Fullstack Developer</h2>
+            <h2 className="text mb-5" data-motionrack-once="motionDown 0.4s" style={{color : 'lightblue'}}>As Fullstack Developer</h2>
           </div>
           <div className="row gx-4 gx-lg-5">
             <div className="col-lg-3 col-md-6 mb-5 mb-lg-0" data-motionrack-once="bounceUp">
@@ -92,7 +92,7 @@ export const Services = () => {
 
           </div>
           <div className="row gx-4 gx-lg-5">
-            <div className="col-lg-3 col-md-6 mb-5 mb-lg-0" data-motionrack-once="bounceUp">
+            <div className="col-lg-3 col-md-6 mb-5 mb-lg-0" data-motionrack="bounceDown">
               <span className="mx-auto">
               <i className="ri-gallery-line" style={{ fontSize: '48px', color: '#f4a460' }}></i>
 
@@ -103,7 +103,7 @@ export const Services = () => {
               </h4>
               <p className="text-dark text-faded mb-0">Designing and scheduling graphic materials to your social media accounts. Using Canva, Buffer, Later and etc.</p>
             </div>
-            <div  className="col-lg-3 col-md-6 mb-5 mb-lg-0" data-motionrack="bounceDown">
+            <div  className="col-lg-3 col-md-6 mb-5 mb-lg-0" data-motionrack-once="flare">
               <span className="mx-auto"> 
               <i className="ri-image-fill" style={{ fontSize: '48px', color: 'green' }} ></i>
       
@@ -115,7 +115,7 @@ export const Services = () => {
               </h4>
               <p className="text-dark text-faded mb-0">I can enhance the images and design for the image posts which makes looks better.</p>
             </div>
-            <div className="col-lg-3 col-md-6 mb-5 mb-md-0" data-motionrack="bounceDown">
+            <div className="col-lg-3 col-md-6 mb-5 mb-md-0" data-motionrack-once="flare">
               <span className="mx-auto">
               <i className="ri-shopping-bag-fill" style={{ fontSize: '48px', color: 'blue' }} ></i>
       
@@ -127,7 +127,7 @@ export const Services = () => {
                 Selling Products - <i className="fas fa-heart"></i>Presented the best way to make more attractive and convincing.
               </p>
             </div>
-            <div className="col-lg-3 col-md-6" data-motionrack-once="bounceUp">
+            <div className="col-lg-3 col-md-6" data-motionrack="bounceDown">
               <span className="mx-auto">
               <i className="ri-store-2-fill" style={{ fontSize: '48px', color: 'red' }}></i>
 
@@ -152,7 +152,7 @@ export const Services = () => {
         <div className="container">
           <div className="content-section-heading">
             <h1 className=" mb-5" data-motionrack-once="motionDown 0.4s">Services</h1>
-            <h2 className="text mb-5" data-motionrack-once="motionDown 0.4s">As Video Editor</h2>
+            <h2 className="text mb-5" data-motionrack-once="motionDown 0.4s" style={{color : '#fdfd96'}}>As Video Editor</h2>
 
           </div>
 
