@@ -46,7 +46,7 @@ export const About = () => {
                         <div className="p-5">
                             <h2 className="display-4">Fullstack  Developer</h2>
                             <p>
-                            I&apos;m Demjhon Silver a full-stack developer and Graphic designer, I have experiences almost 5 years as web developer, I started creating website using PHP and Jquery from scratch without using framework before. Until I studied Ruby on Rails, Laravel and Express JS as back-end techs. I built a social networking website before using Laravel & Vue 2 via API json, and then I proceed to React JS and Javascript empire which I discovered a lot of things that makes more productive in both server-side & client side.
+                            I&apos;m Demjhon Silver a full-stack developer I have experiences almost 5 years as web developer, I started creating website using PHP and Jquery from scratch without using framework before. Until I studied Ruby on Rails, Laravel and Express JS as back-end techs. I built a social networking website before using Laravel & Vue 2 via API json, and then I proceed to React JS and Javascript empire which I discovered a lot of things that makes more productive in both server-side & client side.
                                
                             </p>
                         </div>
