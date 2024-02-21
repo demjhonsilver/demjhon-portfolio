@@ -9,9 +9,8 @@ export const Projects = () => {
     const portfolioIntro1= '/portfolio/intro1.jpg';
     const portfolioIntro2= '/portfolio/intro2.jpg';
     const portfolioIntro3= '/portfolio/intro3.jpg';
-    const portfolioIntro4= '/portfolio/intro4.jpg';
-    const portfolioIntro5= '/portfolio/intro5.jpg';
-    const portfolioIntro6= '/portfolio/intro6.jpg';
+    const portfolioIntro4= '/portfolio/art1.jpg';
+    const portfolioIntro5= '/portfolio/art2.jpg';
 
     return (
       <div  id="projects">
@@ -33,22 +32,40 @@ export const Projects = () => {
 
     <div className="row justify-content-center" data-motionrack="bounceDown">
                 <div className="col-4">
-                    <a href="https://demjhonstudio.wordpress.com/graphics/" target="_blank" rel="noopener noreferrer">
+                    <a href=""  rel="noopener noreferrer">
                     <img className="intro-img img-fluid mb-3 mb-lg-0 rounded" src={portfolioIntro1} alt="..." />
                 </a>
                 </div>
 
 
                 <div className="col-4">
-                    <a href="https://demjhonstudio.wordpress.com/product-branding/" target="_blank" rel="noopener noreferrer">
+                <a href=""  rel="noopener noreferrer">
                     <img className="intro-img img-fluid mb-3 mb-lg-0 rounded" src={portfolioIntro3} alt="..." />
                 </a>
                 </div>
 
 
                 <div className="col-4">
-                    <a href="https://demjhonstudio.wordpress.com/product-branding/" target="_blank" rel="noopener noreferrer">
+                <a href=""  rel="noopener noreferrer">
                     <img className="intro-img img-fluid mb-3 mb-lg-0 rounded" src={portfolioIntro2} alt="..." />
+                </a>
+                </div>
+
+     
+                <div className="">
+                <br></br>
+                 <br></br>
+                <a href=""  rel="noopener noreferrer">
+                    <img className="intro-img img-fluid mb-3 mb-lg-0 rounded" src={portfolioIntro4} alt="..." />
+                </a>
+                </div>
+
+
+                <div className="">
+                <br></br>
+                 <br></br>
+                <a href=""  rel="noopener noreferrer">
+                    <img className="intro-img img-fluid mb-3 mb-lg-0 rounded" src={portfolioIntro5} alt="..." />
                 </a>
                 </div>
 
@@ -64,25 +81,7 @@ export const Projects = () => {
 
 <br></br>
   <div className="row justify-content-center mt-5" data-motionrack="flare">
-                <div className="col-4">
-                    <a href="https://demjhonstudio.wordpress.com/graphics/" target="_blank" rel="noopener noreferrer">
-                    <img className="intro-img img-fluid mb-3 mb-lg-0 rounded" src={portfolioIntro4} alt="..." />
-                </a>
-                </div>
 
-
-                <div className="col-4">
-                    <a href="https://demjhonstudio.wordpress.com/graphics/" target="_blank" rel="noopener noreferrer">
-                    <img className="intro-img img-fluid mb-3 mb-lg-0 rounded" src={portfolioIntro5} alt="..." />
-                </a>
-                </div>
-
-
-                <div className="col-4">
-                    <a href="https://demjhonstudio.wordpress.com/graphics/" target="_blank" rel="noopener noreferrer">
-                    <img className="intro-img img-fluid mb-3 mb-lg-0 rounded" src={portfolioIntro6} alt="..." />
-                </a>
-                </div>
 
 
 
@@ -94,14 +93,6 @@ export const Projects = () => {
 
 
 
-                <div className="intro-text left-0 text-center bg-faded p-5 rounded">
-                        <h2 className="section-heading mb-4">
-                            <span className="section-heading-upper">Demjhon Studio</span>
-
-                        </h2>
-                        <p className="mb-3">Click the images to view more sample projects</p>
-                        <div className="intro-button mx-auto"><a className="btn btn-primary btn-xl" href="https://demjhonstudio.wordpress.com/" target="_blank" rel="noopener noreferrer">View More Graphics Design</a></div>
-                    </div>
 
 
             </div>

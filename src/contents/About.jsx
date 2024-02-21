@@ -46,7 +46,7 @@ export const About = () => {
                         <div className="p-5">
                             <h2 className="display-4">Fullstack  Developer</h2>
                             <p>
-                            I&apos;m Demjhon Silver a full-stack developer I have experiences almost 5 years as web developer, I started creating website using PHP and Jquery from scratch without using framework before. Until I studied Ruby on Rails, Laravel and Express JS as back-end techs. I built a social networking website before using Laravel & Vue 2 via API json, and then I proceed to React JS and Javascript empire which I discovered a lot of things that makes more productive in both server-side & client side.
+                            I&apos;m Demjhon Silver a full-stack developer I have experiences almost 5 years as web developer, I started creating website using PHP and Jquery from scratch without using framework before. Until I studied Ruby on Rails, and Laravel as back-end technology. 
                                
                             </p>
                         </div>
@@ -64,7 +64,7 @@ export const About = () => {
                     <div className="col-lg-6" data-motionrack="motionLeft 1.2s">
                         <div className="p-5">
                             <h2 className="display-6">Graphic Designer</h2>
-                            <p>I&apos;m also social media manager I can manage and schedule your social media posts, I used Softwares like Photoshop, Adobe Illustrator and CorelDraw. In terms of modern graphic platforms I used Canva. I designed Logo, Business Card, Photo editing, Social Media Posts, Banners , Flyers and etc.
+                            <p>I can designed Logo, Business Card, Photo editing, Social Media Posts, Banners , Flyers and etc.
                             </p>
                         </div>
                     </div>
@@ -80,9 +80,9 @@ export const About = () => {
                     </div>
                     <div className="col-lg-6 order-lg-1" data-motionrack="motionRight 3.2s">
                         <div className="p-5">
-                            <h2 className="display-4">Video editor</h2>
+                            <h2 className="display-4">Digital Artist</h2>
                             <p>
-                                I work as video editor almost 5 years, I present the video clips more modern high quality and competitive, I used software like Adobe Premiere, Adobe After effects, Sony Vegas, CapCut, Wondershare Filmora and etc.
+                            I am passionate about the world of digital art.
                             </p>
                         </div>
                     </div>
@@ -103,7 +103,7 @@ export const About = () => {
                     <div className="col-lg-6" data-motionrack="motionLeft 4.2s">
                         <div className="p-5">
                             <h2 className="display-6">Demjhon Silver</h2>
-                            <p>I&apos;m Demjhon &apos;Silver&apos; a Web developer, Graphic designer, Illustrator, Layout Artist, WordPress Developer, Photo Editor, Video Editor and Social Media Manager from Davao City, Philippines.
+                            <p>Welcome!
                             </p>
                         </div>
                     </div>

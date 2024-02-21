@@ -38,8 +38,8 @@ export const Home = () => {
         <img className="img-fluid"  data-motionrack-once="expand" src={circ} alt="..." style={{width: '20%'}} />
 
           <h2 className="mb-1 mt-5" data-motionrack-once="motionDown 0.4s">Fullstack Developer </h2>
-          <h4 className="mb-1 mt-4" data-motionrack-once="motionDown 0.4s">Graphic designer / Social Media Manager</h4>
-          <h3 className="mb-1 mt-4" data-motionrack-once="motionDown 0.4s">Video Editor</h3>
+          <h4 className="mb-1 mt-4" data-motionrack-once="motionDown 0.4s">Graphic designer / Digital Artist</h4>
+
          
           <a className="btn btn-primary btn-xl mt-4"  data-motionrack="flipRight" href="#about">
             Find Out More

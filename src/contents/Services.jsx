@@ -147,39 +147,6 @@ export const Services = () => {
 
 
 
-      {/* Services */}
-      <div className="content-section text-light  mx-auto text-center" id="services" style={{backgroundColor : '#2e8b57'}}>
-        <div className="container">
-          <div className="content-section-heading">
-            <h1 className=" mb-5" data-motionrack-once="motionDown 0.4s">Services</h1>
-            <h2 className="text mb-5" data-motionrack-once="motionDown 0.4s" style={{color : '#fdfd96'}}>As Video Editor</h2>
-
-          </div>
-
-          <div className="row gx-4 gx-lg-5">
-            <div className="col-lg col-md-6 mb-5 mb-lg-0" data-motionrack-once="bounceUp">
-              <span className="mx-auto " data-motionrack="flash 0.4s">
-              <i className="ri-youtube-fill" style={{ fontSize: '48px', color: 'red' }}></i>
-              <i className="ri-facebook-box-fill" style={{ fontSize: '48px', color: '#4169e1' }}></i>
-              <i className="ri-instagram-fill" style={{ fontSize: '48px', color: 'white' }}></i>
-              <i className="ri-twitter-fill" style={{ fontSize: '48px', color: '#00bfff ' }}></i>
-              <i className="ri-twitter-x-line" style={{ fontSize: '48px', color: 'black' }}></i>
-              <i className="ri-tiktok-fill" style={{ fontSize: '48px', color: 'black' }}></i>
-              
-              
-              </span>
-              <h4>
-                <strong></strong>
-              </h4>
-              <p className="text-light text-faded mb-0">I can edit videos like YouTube, Facebook, Instagram, Twitter/X, and TikTok.</p>
-            </div>
-     
-           
-              
-
-          </div>
-        </div>
-      </div>
 
 
 
